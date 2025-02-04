@@ -16,13 +16,6 @@ A logistic regression model to help X Education identify potential leads by assi
 2. Create a flexible model adaptable to future requirements
 3. Provide actionable insights for the sales team
 
-## Repository Structure
-
-lead-scoring-case-study/
-├── lead-scoring-case-study.ipynb # Main analysis notebook
-├── Leads.csv # Dataset file
-└── README.md # Project documentation
-
 ## Tech Stack
 
 - Python
